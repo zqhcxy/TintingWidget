@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TintingCheckbox">
+        <attr name="tintingColor" format="color|integer"/>
+    </declare-styleable>
+
+    <!--<attr name="hcsrc" format="string"/>-->
+    <!--<attr name="hcTinttype" format="enum">-->
+        <!--<enum name="backgrount" value="0"/>-->
+        <!--<enum name="src" value="1"/>-->
+        <!--<enum name="all" value="2"/>-->
+    <!--</attr>-->
+</resources>
